@@ -4,6 +4,7 @@
 
 - **`mkdir ~/FastAPI.Bot && cd ~/FastAPI.Bot`**
 - **`git clone https://github.com/dnp34/fastapi_bot.git .`**
+- **`cp env.txt .env && nano .env`**
 - **`docker-compose build && docker-compose up -d`**
 
 ---
