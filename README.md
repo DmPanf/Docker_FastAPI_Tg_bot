@@ -28,6 +28,6 @@
 ---
 
 <p>
-<img src="https://raw.githubusercontent.com/terrainternship/rostelecom_tree_segmentation/dev/command/Dmitry_Panfilov/images/bot01.jpg" width="45%">
-<img src="https://raw.githubusercontent.com/terrainternship/rostelecom_tree_segmentation/dev/command/Dmitry_Panfilov/images/bot02.jpg" width="45%">
+<img src="https://raw.githubusercontent.com/dnp34/fastapi_bot/main/images/bot01.jpg" width="45%">
+<img src="https://raw.githubusercontent.com/dnp34/fastapi_bot/main/images/bot02.jpg" width="45%">
 </p><br>
