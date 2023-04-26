@@ -3,7 +3,7 @@
 **💾 Установка:**
 
 - **`mkdir ~/FastAPI.Bot && cd ~/FastAPI.Bot`**
-- **`git clone .`**
+- **`git clone https://github.com/dnp34/fastapi_bot.git .`**
 - **`docker-compose build && docker-compose up -d`**
 
 ---
