@@ -1,8 +1,8 @@
-### FastAPI + Bot
+### 📡 FastAPI + Bot
 
 **FastAPI + Telegram Bot in Docker Configuration**
 
-### Command to check
+### Commands to check
 
 - **🌐 http://api-serv.ru:8001/docs**
 - **🌐 http://api-serv.ru:8001/redoc**
