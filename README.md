@@ -1,6 +1,6 @@
-### 📡 FastAPI + Bot
+### FastAPI + Bot
 
-**FastAPI + Telegram Bot in Docker Configuration**
+**📡 FastAPI + Telegram Bot in Docker Configuration**
 
 ### Commands to check
 
