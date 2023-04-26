@@ -1,9 +1,18 @@
-### FastAPI + Bot
+### FastAPI + Telegram Bot in Docker Configuration
 
-**📡 FastAPI + Telegram Bot in Docker Configuration:**
+**💾 Установка:**
+
+- **`mkdir ~/FastAPI.Bot && cd ~/FastAPI.Bot`**
+- **`git clone .`**
+- **`docker-compose build && docker-compose up -d`**
+
+---
+
+**📡 FastAPI Документация и Телеграм-Бот:**
 
 - **🌐 http://api-serv.ru:8001/docs**
 - **🌐 http://api-serv.ru:8001/redoc**
+- **💎 https://t.me/aFa_st_API_Bot**
 
 ---
 
