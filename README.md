@@ -1,13 +1,13 @@
 ### FastAPI + Bot
 
-**📡 FastAPI + Telegram Bot in Docker Configuration**
-
-### Commands to check
+**📡 FastAPI + Telegram Bot in Docker Configuration:**
 
 - **🌐 http://api-serv.ru:8001/docs**
 - **🌐 http://api-serv.ru:8001/redoc**
 
 ---
+
+**⚙️ Commands to check**
 
 - **`curl localhost:8001/docs`**
 - **`curl -X 'GET' 'http://api-serv.ru:8001/' -H 'accept: application/json'`**
